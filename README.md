@@ -1,1 +1,1 @@
-# MIni_Project_Sem3
+# Mini_Project_Sem3
